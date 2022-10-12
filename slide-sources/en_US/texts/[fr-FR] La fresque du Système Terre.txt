@@ -1185,11 +1185,23 @@ LOTS
 15
 
 La Fresque du Système Terre a été créée par William Pinaud en 2022.
-Sa diffusion est libre, à condition de ne pas être modifiée. Pour tous renseignements, l'auteur reste disponible sur tous les réseaux. La licence d'utilisation est Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-Tout usage est libre (pour ne pas dire encouragé), à condition de maîtriser les concepts qui sont sous-jacents à la compréhension du contenu de cet atelier.Des sessions de formation peuvent être dispensées par des bénévoles.
-Cet atelier est grandement inspiré de son grand frère : l'atelier de La Fresque du Climat, créé par Cédric Ringenbach, à qui il doit probablement tout. Il est néanmoins plus complexe.Il est également inspiré de nombreux travaux, notamment des implications publiques de personnalités comme Arthur Keller, Jean-Marc Jancovici, Aurore Stéphant, Philippe Bihouix, Johan Rockström, Emma Haziza, Valérie Masson-Delmotte, Aurélien Barrau, Catherine Wolfram, Jean-Baptiste Fressoz, ainsi que bon nombre d'organismes, de l'ONU (IRP, IPCC, UNESCO, …) au Shift Project en passant par le Club de Rome, son rapport The Limits To Growth (Meadows), l'Union Européenne, l'AIE, Négawatt, la WWF, GreenPeace, l'EIA, le Global Footprint Network et bien d'autres personnes et organismes encore, la liste étant fatalement trop longue. Ces personnes et entités n'ont aucunement soutenu, participé à, ni entériné cet atelier.
-Cet atelier ne dispense aucunement, mais au contraire encourage la participation, voire l'implication, à tous les autres ateliers de ce type existant (et il y en a beaucoup !).Il est plus que recommandé de devenir animateur·ice de la La Fresque du Climat à minima pour animer celui-ci, et de se former au préalable (des vidéos sur YouTube peuvent vous aider).
+Sa diffusion est libre, à condition de ne pas être modifiée. Pour tous renseignements, l'auteur reste disponible sur tous les réseaux.
+La licence d'utilisation est Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+Tout usage est libre (pour ne pas dire encouragé), à condition de maîtriser les concepts qui sont sous-jacents à la compréhension du contenu de cet atelier.
+Des sessions de formation peuvent être dispensées par des bénévoles.
+Cet atelier est grandement inspiré de son grand frère : l'atelier de La Fresque du Climat, créé par Cédric Ringenbach, à qui il doit probablement tout. Il est néanmoins plus complexe.
+Il est également inspiré de nombreux travaux, notamment des implications publiques de personnalités comme Arthur Keller, Jean-Marc Jancovici, Aurore Stéphant, Philippe Bihouix, Johan Rockström, Emma Haziza, Valérie Masson-Delmotte, Aurélien Barrau, Catherine Wolfram, Jean-Baptiste Fressoz, ainsi que bon nombre d'organismes, de l'ONU (IRP, IPCC, UNESCO, …) au Shift Project en passant par le Club de Rome, son rapport The Limits To Growth (Meadows), l'Union Européenne, l'AIE, Négawatt, la WWF, GreenPeace, l'EIA, le Global Footprint Network et bien d'autres personnes et organismes encore, la liste étant fatalement trop longue. Ces personnes et entités n'ont aucunement soutenu, participé à, ni entériné cet atelier.
+
+Cet atelier ne dispense aucunement, mais au contraire encourage la participation, voire l'implication, à tous les autres ateliers de ce type existant (et il y en a beaucoup !).
+
+Il est plus que recommandé de devenir animateur·ice de la La Fresque du Climat à minima pour animer celui-ci, et de se former au préalable (des vidéos sur YouTube peuvent vous aider).
 Les images non sourcées individuellement sont créditées via Pixabay.
-Pour plus d'informations : 							L'auteur : William Pinaud> https://www.lafresquedusystemeterre.org 						william_dot_pinaud_at_gmail_dot_com> https://www.theearthsystemfresco.org 						https://linktr.ee/DocFX									https://twitter.com/innersonics
+
+Pour plus d'informations : 							L'auteur : William Pinaud
+> https://www.lafresquedusystemeterre.org 			william_dot_pinaud_at_gmail_dot_com
+> https://www.theearthsystemfresco.org 				https://linktr.ee/DocFX
+									                https://twitter.com/innersonics
+
 The Earth System Fresco © 2022 by William Pinaud is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International
-LA FRESQUE DU SYSTÈME TERRE - UN ATELIER COLLABORATIF INSPIRÉ DE LA FRESQUE DU CLIMAT - [FR-FR] - [TOUS PUBLICS] - [V1.0 - 01/10/2022]
+LA FRESQUE DU SYSTÈME TERRE - UN ATELIER COLLABORATIF INSPIRÉ DE LA FRESQUE DU CLIMAT - [FR-FR] - [TOUS PUBLICS] - [V1.0
