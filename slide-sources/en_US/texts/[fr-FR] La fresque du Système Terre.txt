@@ -78,7 +78,7 @@ AUGMENTATION DE L'EMPREINTE ÉCOLOGIQUE
 
 LOT 1
 5
-L'empreinte écologique ou environnementale est un indicateur et un mode d'évaluation qui comptabilise la pression exercée par les hommes envers les ressources naturelles et les "services écologiques" fournis par la nature. 
+L'empreinte écologique ou environnementale est un indicateur et un mode d'évaluation qui comptabilise la pression exercée par les hommes envers les ressources naturelles et les "services écologiques" fournis par la nature.
 
 Elle mesure les surfaces alimentaires productives de terres et d'eau nécessaires pour produire les ressources qu'un individu, une population ou une activité consomme et pour absorber les déchets générés, compte tenu des techniques et de la gestion des ressources en vigueur.
 
@@ -128,7 +128,7 @@ LOT 1
 9
 Chaque année, Global Footprint Network produit une nouvelle édition de ses comptes nationaux d'empreinte écologique. Ces derniers calculent l'empreinte écologique et la biocapacité de plus de 200 pays et territoires de 1961 à aujourd'hui.
 
-Le Jour de Dépassement est le jour où l'humanité a épuisé les ressources naturelles de la Terre pour l'année. Le restant de l'année étant considéré comme une vie à crédit qui puise dans les stocks de ressources non renouvelables de la planète. 
+Le Jour de Dépassement est le jour où l'humanité a épuisé les ressources naturelles de la Terre pour l'année. Le restant de l'année étant considéré comme une vie à crédit qui puise dans les stocks de ressources non renouvelables de la planète.
 
 9 limites planétaires ont été établies par Johann Rockström et son équipe pour caractériser ce dépassement. En 2022, il était estimé au 28 Juillet, pour 1.75 planète Terre au 31 Décembre (2.77 hag/hab contre 1.58 hag/hab). Plus de la moitié de ces 9 limites sont déjà franchies.
 Noter que plus on dépasse cette limite, plus la biocapacité chute en cascade, entraînant une décrue de la viabilité sur Terre, de la pollution, un épuisement minier, le tout dans un système complexe où tout est maillé et où recycler ne pourra pas tout compenser…
@@ -182,9 +182,9 @@ Un fossile est essentiellement la trace minérale d'un ancien organisme vivant, 
 
 	Pour la matière organique d'origine continentale, les débris sédimentés sont pour la plupart des végétaux vasculaires, donc riches en lignine mais aussi de la matière organique des sols lors d'un lessivage important. Ils se déposent dans les environnements marécageux ou les plaines d'inondation deltaïques. Cette sédimentation et la préservation dans les sédiments est à l'origine des dépôts houillers constitués principalement de charbon.
 
-Pour la matière organique d'origine océanique, ce sont essentiellement des organismes d'origine planctonique auxquels peuvent s'ajouter des dépôts éoliens (spores, pollens) venus du continent. 
+Pour la matière organique d'origine océanique, ce sont essentiellement des organismes d'origine planctonique auxquels peuvent s'ajouter des dépôts éoliens (spores, pollens) venus du continent.
 
-Ces matières organiques évoluent en donnant naissance des hydrocarbures du type huile (pétrole) et gaz, sous l'effet de l'enfouissement, parfois issu de la tectonique des plaques, donc de la chaleur et de la pression souterraine (pyrolyse). 
+Ces matières organiques évoluent en donnant naissance des hydrocarbures du type huile (pétrole) et gaz, sous l'effet de l'enfouissement, parfois issu de la tectonique des plaques, donc de la chaleur et de la pression souterraine (pyrolyse).
 APPARITION DES SÉDIMENTS ET FOSSILES
 LOT 2
 
@@ -193,7 +193,7 @@ LIMITES DE L'ANTHROPOSPHÈRE
  Picture by NASA - Waldo Swiegers/Bloomberg
 
 14
-Les lois et principes de la physique nous contraignent, c'est le moins qu'on puisse dire... 
+Les lois et principes de la physique nous contraignent, c'est le moins qu'on puisse dire...
 
 Vers le haut, l'être humain a réussi à aller, via la mission Apollo 13, à 140 000 km de son lieu de vie, et la sonde Voyager 1 est actuellement notre objet le plus lointain, à 23,6 milliards de kilomètres de la Terre. En 2017, 37 ans après avoir été lancée, elle a toujours répondu, et on a réactivé très légèrement ses propulseurs, bientôt à court d'énergie, et continue son voyage en aller simple vers l'inconnu.
 
@@ -225,7 +225,7 @@ CHARBON FOSSILE
 16
 On classe le charbon fossile à l’aide de critères physico-chimiques selon les stades successifs de transformation, dits de houillification, qu’ils ont atteint au cours de la carbonification : le stade tourbe désigne les charbons n’ayant pas ou très peu été enfouis, on y reconnaît encore à l’œil nu des restes végétaux. Viennent ensuite les stades lignite, charbon subbitumineux, charbon bitumineux, puis anthracite, par ordre de houillification croissante. On le pyrolyse à nouveau pour en faire du coke. Il s'est formé il y a 65 à 350 millions d'années, l'essentiel… Au carbonifère, époque à qui il a donné son nom.
 
-Le charbon représente actuellement 27% de la consommation d'énergie dans le monde, et 40% de la génération de gaz à effet de serre, la première source au monde. Il représente environ 2 TW de puissance, pour 1/3 de l'électricité mondiale. Malgré cela, environ 300 nouvelles centrales vont être ouvertes entre 2021 et 2026. 
+Le charbon représente actuellement 27% de la consommation d'énergie dans le monde, et 40% de la génération de gaz à effet de serre, la première source au monde. Il représente environ 2 TW de puissance, pour 1/3 de l'électricité mondiale. Malgré cela, environ 300 nouvelles centrales vont être ouvertes entre 2021 et 2026.
 
 Son pic d'exploitation devrait se situer quelque part entre 2050 et 2150, et il reste quelque chose entre 130 et 400 ans de charbon, au rythme d'extraction actuel. 8 pays détiennent et produisent 90% des ressources utilisées en charbon.
 CHARBON FOSSILE
@@ -304,7 +304,7 @@ APPARITION DES ASTRES
 22
 Il est impossible de savoir quand se sont réellement formés les premiers astres. On sait observer des galaxies supposées à plus de 13 années-lumières d'éloignement constant… Donc très proches des limites historiques du Big Bang.
 
-Après l'âge sombre, période où la matière était tellement présente que la lumière butait partout dessus, on suppose que l'univers a vu très probablement se former les premières galaxies entre 300 et 500 millions d'années après sa propre formation. 
+Après l'âge sombre, période où la matière était tellement présente que la lumière butait partout dessus, on suppose que l'univers a vu très probablement se former les premières galaxies entre 300 et 500 millions d'années après sa propre formation.
 
 Les premiers clusters seraient arrivés après 1 milliard d'années, et les premiers superclusters après 3 milliards d'années. Le nôtre, baptisé "Laniakea" ("les cieux immenses" en hawaiien), modélisé en 2014 pour la première fois, comporterait pas moins de 100 000 galaxies, comme la nôtre, qui contient encore des centaines de milliards d'étoiles et au moins autant de planètes.
 APPARITION DES ASTRES
@@ -341,7 +341,7 @@ On peut évoquer les forêts, les animaux (oiseaux, poissons,...), les organisme
 
 Ceci inclut donc également les dérivés directs (café, infusions, sucres, bon nombre de médicaments, bois usiné, papier de bois, alcools, acide acétique, …).
 
-L'ensemble des acteurs forme un réseau trophique décomposé en : producteurs (autotrophes, producteurs de matières organiques à partir de matière minérale : plantes chlorophylliennes, cyanobactéries et bactéries sulfureuses), consommateurs (hétérotrophes primaires : herbivores, et secondaires : carnivores), décomposeurs (agents réducteurs : moisissures, bactéries, ...), détritivores (bactéries, champignons, mouches, vers, …). 
+L'ensemble des acteurs forme un réseau trophique décomposé en : producteurs (autotrophes, producteurs de matières organiques à partir de matière minérale : plantes chlorophylliennes, cyanobactéries et bactéries sulfureuses), consommateurs (hétérotrophes primaires : herbivores, et secondaires : carnivores), décomposeurs (agents réducteurs : moisissures, bactéries, ...), détritivores (bactéries, champignons, mouches, vers, …).
 RESSOURCES BIOTIQUES
 LOT 3
 
@@ -388,9 +388,9 @@ MATIÈRE
 29
 La matière, c'est ce qui occupe l'espace et qui a une masse. Elle a 4 états connus : plasma, gazeux, liquide, solide. Tout ce qui a une masse est de la matière.
 
-Dans le modèle de physique des particules actuelles, elle est constituée de quarks et de leptons, qui forment des hadrons (essentiellement des baryons comme les protons et les neutrons formés de quarks up et down). On leur ajoute les leptons que sont les électrons. 
+Dans le modèle de physique des particules actuelles, elle est constituée de quarks et de leptons, qui forment des hadrons (essentiellement des baryons comme les protons et les neutrons formés de quarks up et down). On leur ajoute les leptons que sont les électrons.
 
-Ces trois objets forment la matière baryonique, celle avec laquelle on peut interagir (environ 5% de l'univers), plus des formes primitives, aujourd'hui minoritaires car s'annihilant violemment au contact de cette matière baryonique, appelées antimatière. 
+Ces trois objets forment la matière baryonique, celle avec laquelle on peut interagir (environ 5% de l'univers), plus des formes primitives, aujourd'hui minoritaires car s'annihilant violemment au contact de cette matière baryonique, appelées antimatière.
 
 Et pour le reste… On suppose 27% de matière dite "noire" et 68% d'énergie dite "noire", à peine détectables, mais tout cela… N'est qu'hypothétique à l'heure actuelle. Il faudra attendre l'avancée de nos recherches pour écrire la prochaine page.
 MATIÈRE
@@ -403,7 +403,7 @@ ENERGY
 
 
 
- 
+
 INVESTED
 USEFUL ENERGY
 LOST
@@ -418,7 +418,7 @@ EXERGY
 
 
 
- 
+
 INVESTED
 USEFUL EXERGY
 LOST
@@ -433,7 +433,7 @@ SYSTEM
 LOT 3
 Emmy Noether a démontré (1918) que l’énergie n’est pas quelque chose de tangible, ni en soi. "L’énergie pure", ça n’existe pas. L'énergie est une grandeur qui mesure la capacité d'un système à modifier un état. Elle peut être cinétique, potentielle, gravitationnelle, électrique, chromodynamique, nucléaire, radiante, etc.
 
-L'énergie est juste une valeur qui reste constante lors de toutes les transformations possibles d’un système, et ce nombre existe parce que les lois de la physique ne varient pas dans le temps. 
+L'énergie est juste une valeur qui reste constante lors de toutes les transformations possibles d’un système, et ce nombre existe parce que les lois de la physique ne varient pas dans le temps.
 
 Dans le modèle de la physique des particules actuelles, les bosons sont des vecteurs des 4 interactions fondamentales (faible, forte, électromagnétique, gravitationnelle) dont ils transportent les quantas d'énergie.
 
@@ -485,7 +485,7 @@ Ces travaux ont permis de découvrir le comportement de l'énergie, mais aussi d
 
 Ces lois, principes, jusqu'à preuve du contraire, n'ont pas de parlement pour être votés. Ils s'appliquent partout, tout le temps, et il est impossible de les contourner. Toute décision d'orientation civilisationnelle allant à leur encontre sera physiquement vouée à l'échec.
 LOIS ET PRINCIPES DE LA PHYSIQUE
-LOT 4 
+LOT 4
 
 RESSOURCES CONSTANTES
 34
@@ -497,7 +497,7 @@ L'énergie solaire comprend de nombreuses considérations : la première étant 
 
 Idem pour la chaleur du centre de la Terre (géothermie profonde comme de surface), encore très peu utilisée, ou la gravitation via l'hydroélectricité, toujours la plus grande source mondiale dite "renouvelable". Attention toutefois : toutes ne sont pas égales, certaines de ces sources sont pilotables (hydroélectricité ou géothermie) et assimilées à perpétuelles, quand d'autres sont inégales (ensoleillement), prévisibles (marées) ou imprévisibles (éolien), ce qui requerra du stockage pour tamponner l'usage, et une augmentation de puissance installée, sans compter la densification du réseau électrique pour les énergies diffuses. Dans tous les cas, les moyens de capture ne sont jamais définitifs, et il faudra toujours les renouveler, sans compter qu'ils ont un taux de charge très bas.
 RESSOURCES CONSTANTES
-LOT 4 
+LOT 4
 
 DURABILITÉ FORTE
 35
@@ -533,7 +533,7 @@ Cette hypothèse est défendue par Herman Daly (1990). Selon lui, seuls les flux
 
 Dans cette hypothèse, le stock de capital naturel ne doit pas baisser. Daly soutient que capital naturel et capital artificiel sont complémentaires et non substituables. On en retient donc que l'économie doit s'inscrire dans une construction sociale et non la définir, et que la construction sociale ne peut non plus dépasser la biocapacité terrestre.
 DURABILITÉ FORTE
-LOT 4 
+LOT 4
 
 DURABILITÉ FAIBLE
 36
@@ -551,7 +551,7 @@ Cette conception de la durabilité est celle qui prévaut dans beaucoup d'organi
 
 L'indicateur proposé par la Commission Stiglitz, l'épargne nette ajustée, rend interchangeables les trois formes de capital : "économique" (issu de la production), "humain" (abordé via les seules dépenses d’éducation), "naturel" (limitant les dommages écologiques aux seuls aspects climatiques). Cet indicateur se place donc toujours dans un modèle de durabilité faible.
 DURABILITÉ FAIBLE
-LOT 4 
+LOT 4
 
 CHANGEMENT CLIMATIQUE
 37
@@ -563,7 +563,7 @@ Environ 74% des humains seront exposés à des canicules mortelles plus de 20 jo
 
 Pour ne pas dépasser l'objectif du GIEC (l'organisme mandaté équitablement par l'ONU pour rassembler spécifiquement la littérature scientifique publiée autour de cette limite planétaire) du maximum de +2°C en 2100, il faudrait laisser sous terre les 3/4 des réserves prouvées d'énergies fossiles. En attendant, les dégâts se comptent tous les jours et touchent tous les pays du monde, de plus en plus fort chaque jour.
 CHANGEMENT CLIMATIQUE
-LOT 4 
+LOT 4
 
 DÉSINTÉGRATION DE LA BIOSPHÈRE
 38
@@ -577,7 +577,7 @@ En 50 ans l'Europe a perdu 620 millions d'oiseaux, l'Amérique du Nord 3 milliar
 
 1 million d'espèces sont menacées à très court terme, 1000 milliards d'animaux marins meurent chaque année de la pêche. 9.3 millions d'hectares de forêt ont brûlé rien qu'en 2021.
 DÉSINTÉGRATION DE LA BIOSPHÈRE
-LOT 4 
+LOT 4
 
 PERTURBATION DES CYCLES BIOGÉOCHIMIQUES
 39
@@ -589,13 +589,13 @@ Les cycles les plus importants sont le cycle de l'azote, du carbone, de l'eau, l
 
 L'humain perturbe fortement ces cycles, comme ceux du phosphore et de l'azote (déjections humaines finissant dans les eaux naturelles, ainsi que le ruissellement lié à l'agriculture). Sur-enrichir ainsi les cours d'eau s'appelle l'eutrophisation (asphyxie suite à croissance anormale du vivant). Cette limite planétaire, pour le phosphore et l'azote, est allègrement franchie, il convient d'urgence de redescendre à des niveaux assimilables par le vivant (bactéries). On pourrait ajouter le carbone, analysé à part… Dans le changement climatique.
 PERTURBATION DES CYCLES BIOGÉOCHIMIQUES
-LOT 4 
+LOT 4
 
 PERTURBATION DE L'OCCUPATION DES SOLS
 40
 
 40
-Les sols sont formés à partir de longs processus, transformation des roches du sol de la croûte terrestre en argiles par désintégration des polyèdres silicatés par les hydrométéores (érosion), puis cette "peau" sert de base aux bactéries, puis aux végétaux, qui à leur tour meurent et rendent ces éléments au sol, formant un humus. 
+Les sols sont formés à partir de longs processus, transformation des roches du sol de la croûte terrestre en argiles par désintégration des polyèdres silicatés par les hydrométéores (érosion), puis cette "peau" sert de base aux bactéries, puis aux végétaux, qui à leur tour meurent et rendent ces éléments au sol, formant un humus.
 
 Ils sont progressivement transformés pour les besoins humains, essentiellement pour des utilisations agricoles. Seulement 22% de la surface totale du sol est arable (cultivable). Et 200 hectares sont défrichés chaque jour au profit des villes.
 
@@ -605,7 +605,7 @@ Le dégel du permafrost (pergélisol) est 50 fois plus rapide que prévu. Il lib
 
 Chaque année, 80 000 km² de forêt disparaissent. Il ne reste que moins de 50% des arbres que la Terre comptait avant l'arrivée de l'agriculture, il y a 12 000 ans.
 PERTURBATION DE L'OCCUPATION DES SOLS
-LOT 4 
+LOT 4
 
 ÉPUISEMENT DES RESSOURCES EN EAU DOUCE
 41
@@ -621,7 +621,7 @@ La fonte des glaciers va amener beaucoup trop d'eau douce, beaucoup trop vite, p
 70% de l'eau douce est utilisée pour l'agriculture dans le monde.
 En une journée, on a rapporté jusqu'à 11 milliards de tonnes de glace fondant au Groenland seul.
 ÉPUISEMENT DES RESSOURCES EN EAU DOUCE
-LOT 4 
+LOT 4
 
 NOUVELLES ENTITÉS POLLUANTES
 42
@@ -631,9 +631,9 @@ Il s'agit ici de la pollution la plus emblématique et connue, la pollution chim
 
 Cette limite n'est pas encore clairement quantifiée, mais on est sûr·e·s de la nécessité de son estimation. Les échanges sur le marché mondial comprennent environ 350 000 types différents de produits chimiques manufacturés, ou "nouvelles entités" : pesticides, antibiotiques, plastiques (90 millions de tonnes par an, dont 10% atterrissent dans les océans, s'accumulant dans 5 à 7 immenses gyres où les courants se rejoignent, concentrant environ 18 000 morceaux par kilomètre carré), produits de chimie industrielle, ...
 
-Un adulte ingère jusqu’à 52.000 microparticules de plastique par an (usure des chaussures, pneus, sacs, emballages, …), auxquelles s’ajoutent 90.000 supplémentaires s’il boit uniquement de l’eau en bouteille (et 4.000 s’il se contente de l’eau du robinet), soit une carte de crédit par semaine. La production de déchets humains va augmenter d'environ 70% dans les dix prochaines années. 98% des pesticides atteignent une autre entité au moins que leur but initial. 
+Un adulte ingère jusqu’à 52.000 microparticules de plastique par an (usure des chaussures, pneus, sacs, emballages, …), auxquelles s’ajoutent 90.000 supplémentaires s’il boit uniquement de l’eau en bouteille (et 4.000 s’il se contente de l’eau du robinet), soit une carte de crédit par semaine. La production de déchets humains va augmenter d'environ 70% dans les dix prochaines années. 98% des pesticides atteignent une autre entité au moins que leur but initial.
 NOUVELLES ENTITÉS POLLUANTES
-LOT 4 
+LOT 4
 
 RÉGRESSION DE LA COUCHE D'OZONE ATMOSPHÉRIQUE
 43
@@ -642,14 +642,14 @@ Getty Images Plus
 
 
 43
-L'ozonosphère est une partie de l'atmosphère riche en ozone (O3, environ 10 ppm), formé à partir du dioxygène, entre autres. 
+L'ozonosphère est une partie de l'atmosphère riche en ozone (O3, environ 10 ppm), formé à partir du dioxygène, entre autres.
 
 Dans le spectre des ondes électromagnétiques émises par le Soleil, les longueurs d'onde des ultraviolets, de 200 à 400 nm, sont comprises entre celles des rayons X et celles du rayonnement visible. Les différents types de rayons ultraviolets sont fonction de leurs longueurs d'ondes (UVA, UVB, UVC), et tous sont des agents mutagènes très intenses, donc sources de cancer et aggravations de cancer, parmi d'autres risques. Les principaux absorbants dans l'ultraviolet sont l'azote, l'oxygène, le dioxygène et l'ozone, ce dernier étant efficace sur tout le spectre, même s'il n'absorbe pas tout.
 
 Les modèles informatiques prédisent qu'une diminution de 10 % de la concentration d'ozone stratosphérique pourrait provoquer chaque année 300 000 cancers cutanés, 4 500 mélanomes et entre 1,60 million et 1,75 million de cas de cataracte de plus dans le monde. Quand les UVB et UVA touchent la peau, cela provoque des kératinocytes (des coups de soleil), qui sont en fait des cellules en mort cellulaire suite à des dommages causés sur l'ADN, et une bombe à retardement pour la santé, même si les UV permettent aussi au corps de transformer la provitamine D en vitamine D.
 En surveillant sa présence, on a établi dans les années 1980 la raréfaction de l'ozone stratosphérique au niveau du pôle sud, appelée communément « le trou de la couche d'ozone ». A partir de la fin du XXème siècle, l'essor de l'industrie et des transports, l'intensité des activités agricoles et autres activités humaines ont dégagé des quantités de produits azotés, nitrés et chlorés (notamment les chlorofluorocarbones) suffisantes pour perturber l'équilibre de cette couche, renforcer la réaction de destruction de l'ozone et aboutir à une diminution significative de sa concentration. Si aujourd'hui on estime avoir agi de manière corrective et que ce "trou" a cessé de grandir, il faudra encore quelques décennies pour revenir aux niveaux d'avant la fin du XXème siècle. Et veiller à ne pas recommencer.
 RÉGRESSION DE LA COUCHE D'OZONE ATMOSPHÉRIQUE
-LOT 4 
+LOT 4
 
 ACIDIFICATION DES OCÉANS
 44
@@ -659,7 +659,7 @@ Les émissions anthropiques de dioxyde de carbone peuvent terminer, comme presqu
 
 Quand ces éléments se retrouvent piégés par les océans par solubilité ou dilution, ceci a pour effet de diminuer le pH de ce dernier, qui devient donc légèrement plus acide. Or, le plancton est très sensible à ces changements (comme le corps humain, qui doit rester entre 7.35 et 7.45 : à 6.8, vous seriez déjà dans le coma) et les écosystèmes marins sont d'ores et déjà menacés, et pas seulement le corail. De 1751 à 2004, le pH des eaux superficielles des océans a diminué, passant de 8,25 à 8,14 (30%).
 ACIDIFICATION DES OCÉANS
-LOT 4 
+LOT 4
 
 CONCENTRATION DES AÉROSOLS ATMOSPHÉRIQUES
 45
@@ -674,7 +674,7 @@ Le noir de carbone (forme paracristalline la plus élémentaire de carbone) et l
 
 Les aérosols bloquent également environ un tiers du réchauffement climatique.
 CONCENTRATION DES AÉROSOLS ATMOSPHÉRIQUES
-LOT 4 
+LOT 4
 
 LOT 5 - 12 CARTES (+FLÈCHES)
 
@@ -688,10 +688,10 @@ Premièrement : quelle est la direction prise ? Est-elle viable ou non ? Et à q
 
 Deuxièmement : pour les mauvaises décisions du passé et du présent, quelle est la résilience de la biosphère ? Le CO2 émis dans l'atmosphère, par exemple, y est pour environ 10 000 ans. 80, au moins, pour en laisser la moitié être à nouveau absorbée par le système Terre. Autre exemple : les sols détruits par l'exploitation minière le sont pour plusieurs centaines voire milliers d'années.
 
-En attendant, chaque année, l'humain tue en moyenne 1000 milliards d'animaux. 
+En attendant, chaque année, l'humain tue en moyenne 1000 milliards d'animaux.
 Et l'existence humaine n'est qu'une symbiose entre le vivant humain et le vivant non-humain : si le reste meurt, on meurt avec le reste.
 DÉCRUE DE LA VIABILITÉ SUR TERRE
-LOT 5 
+LOT 5
 
 POLLUTION
 47
@@ -706,7 +706,7 @@ Le vivant s'adapte toujours (on a découvert des vers capables de digérer du po
 9.3 millions de personnes meurent chaque année des effets de la pollution.
 1 milliard d'enfants sont dès maintenant exposés à des effets graves de santé dûs à une exposition à de la pollution.
 POLLUTION
-LOT 5 
+LOT 5
 
 MAILLAGE DES DÉPENDANCES
 48
@@ -714,11 +714,11 @@ MAILLAGE DES DÉPENDANCES
 48
 "S'il y a une chose que l'histoire nous apprend, c'est qu'il n'y a jamais eu de transition énergétique dans le passé." (Jean-Baptiste Fressoz)
 
-Quand on regarde l'évolution des sources d'énergie à travers l'histoire, l'humanité n'a jamais su passer d'une énergie à une autre, ni d'un matériau à un autre : elle a simplement accumulé de nouvelles sources par-dessus les autres, et les révolutions récentes comme le "tout électrique" (pourtant souhaitable) ou le numérique n'arrangent rien, bien au contraire (un smartphone contient en moyenne une cinquantaine de métaux très étroitement alliagés). En dehors des guerres et des pénuries d'approvisionnement pour raisons politiques, jamais une transition n'a eu lieu dans l'histoire. 
+Quand on regarde l'évolution des sources d'énergie à travers l'histoire, l'humanité n'a jamais su passer d'une énergie à une autre, ni d'un matériau à un autre : elle a simplement accumulé de nouvelles sources par-dessus les autres, et les révolutions récentes comme le "tout électrique" (pourtant souhaitable) ou le numérique n'arrangent rien, bien au contraire (un smartphone contient en moyenne une cinquantaine de métaux très étroitement alliagés). En dehors des guerres et des pénuries d'approvisionnement pour raisons politiques, jamais une transition n'a eu lieu dans l'histoire.
 
 Aujourd'hui, à une heure où on parle d'énergie constante (lumière et donc vents, gravité des rivières et marées, chaleur directe, …) ou fortement renouvelables (bioénergies, biocarburants…), il est important de rappeler que dans un monde à 85% fossile, 90% à énergie non constante, toutes les énergies dépendent les unes des autres, et donc n'ont ni substitut durable, ni indépendance. Il faut du pétrole, de l'eau pour toutes les mines, du charbon au lithium, il faut du charbon pour fabriquer les machines qui utilisent le pétrole, il faut de l'électricité pour le paradigme "tout électrique" à venir, il faut des énergies fossiles et des tonnes de matériaux pour fabriquer des panneaux solaires, des éoliennes, des barrages, et tous les systèmes qui, quoiqu'il arrivent, ne sont pas éternels et devront être démolis, puis fabriqués à nouveau, à base de ressources pas toutes infinies.
 MAILLAGE DES DÉPENDANCES
-LOT 5 
+LOT 5
 
 DYNAMIQUE DES SYSTÈMES COMPLEXES
 49
@@ -731,7 +731,7 @@ Un système est tout ensemble de variables interconnectées entre elles et s’i
 
 Cette approche est très peu intuitive pour un être humain, qui ira plus facilement vers un amas de paramètres statiques. La dynamique des systèmes est la science du changement, de l'évolution, des boucles, interactions, linéarités, stabilisations, … Elle est puissamment ancrée dans les mathématiques et l'analyse en masse (big data, apprentissage automatisé, …). Le système Terre est un système extrêmement complexe, mais possible à modéliser, avec de plus en plus de complexité (comme le modèle World3). On connaît déjà des déductions multiples à cette approche.
 DYNAMIQUE DES SYSTÈMES COMPLEXES
-LOT 5 
+LOT 5
 
 RECYCLAGE ET DÉCYCLAGE
 50
@@ -743,7 +743,7 @@ Recycler n'est pas gratuit, cela consomme aussi énormément de ressources, mêm
 
 En effet, l'inerte comme le vivant ont mis des millions d'années pour se former par-dessus une couche de roche et le vivant commencé dans l'eau. Arracher le sol (la pédosphère), c'est penser que la pédogénèse et l'abiogenèse se feraient plus vite : il n'en est rien. Quand on a fini d'exploiter un site minier, ce qui reste en surface est irrécupérable à notre échelle et définitivement polluant.
 RECYCLAGE ET DÉCYCLAGE
-LOT 5 
+LOT 5
 
 ÉPUISEMENT MINIER
 51
@@ -753,10 +753,10 @@ L'homme a prélevé autant de ressources du sol entre 2002 et 2015 (1Tt) que le 
 On parle de minéral quand la ressource est identifiable, assez homogène et cristallinement connue, de roche quand elle est relativement hétérogène et de minerai quand la roche contient assez de minéral recherché ou coextrait.
 
 Il ne s'agit pas seulement d'extraire les combustibles fossiles du sol, il s'agit bien ici d'une majorité écrasante des éléments du tableau de Mendeleïev, dont les quantités sont finies au sein de la fine partie de lithosphère accessible dans nos limites. Et toutes sont en train de toucher leurs termes, une par une, hormis l'aluminium, le fer, le magnésium, le titane et le manganèse. Certains éléments n'ont plus de réserves prouvées et exploitables que pour une poignée de dizaines d'années. Et avec la pression du mirage d'une "transition" du fossile vers du tout électrique (donc métallique), les matériaux les plus utilisés vont voir leur extraction démultipliée, le tout fonçant plus vite… Vers une pénurie définitive et imminente. En attendant, il faut de plus en plus extraire de roche pour de moins en moins de matériaux, puisqu'on a commencé historiquement par les gisements les plus faciles et abondants. On estime à plus de 40 le nombre d'éléments déjà en danger d'approvisionnement… Pour ne parler que des éléments chimiques seuls. Le calcul est dynamique et à rapporter à l'économie contemporaine au calcul, ce qui explique qu'en fonction du ratio R/P (réserves à un instant T / taux de production à cet instant) le nombre d'années restantes varie (on augmente le coût en énergie et la quantité de sol miné pour maintenir les taux).
- 
+
 Pas sûr qu'il en reste assez pour tout ce qu'on fait aujourd'hui, ni surtout pour combien de temps, y compris hôpitaux, ENR, transports, domestique, alimentation, éducation, services numériques, justice, protection civile, gestion des catastrophes naturelles, bâtiment, artisanat, sans compter toute la partie totalement superflue et macrocéphalique de ce qu'on produit… À moins que des pantoufles connectées, des gourdes connectées indiquant le litrage restant, des perruques pour chat, ou des cailloux USB vous paraissent utiles, sans compter les places de marché qui listent des milliers de fois les mêmes produits… Qui ne seront jamais vendus.
 ÉPUISEMENT MINIER
-LOT 5 
+LOT 5
 
 CONCENTRATIONS D'ÉNERGIE ABONDANTE
 52
@@ -768,7 +768,7 @@ C'est grâce à ces caractéristiques que l'humanité a pu faire un bond en avan
 
 Aujourd'hui, si on devait remplacer la force mécanique non-humaine par de la force mécanique humaine, il faudrait… Être 200 fois plus sur la planète, dont 99.5% des humains seraient des esclaves à plein temps. Bien plus encore dans les pays riches. L'humain fournit donc au maximum de ses capacités moins de 0.5% de ce qu'il consomme, lissé sur une vie, et c'est de pire en pire. Autant dire que nous sommes accros à l'énergie abondante.
 CONCENTRATIONS D'ÉNERGIE ABONDANTE
-LOT 5 
+LOT 5
 
 RÉVOLUTIONS THERMO-INDUSTRIELLES
 53
@@ -781,7 +781,7 @@ L'humain utilise les énergies fossiles depuis des milliers d'années, certaines
 Les pays les plus développés sont alors passés d'une économie agraire à une économie de production de biens et de services, entraînant une utilisation explosive des ressources ainsi découvertes.
 Machine à vapeur, boom ferroviaire, moteur à explosion, téléphonie, pasteurisation, dynamo, ampoule électrique, physique nucléaire, informatique, physique quantique… Tout ce avec quoi nous sommes aujourd'hui né·e·s et ce à quoi nous sommes habitué·e·s vient de là.
 RÉVOLUTIONS THERMO-INDUSTRIELLES
-LOT 5 
+LOT 5
 
 595 EXAJOULES,
 2021 WORLD CONSUMPTION
@@ -795,13 +795,13 @@ YEARLY SOLAR POWER ABSORBED
 2021 WORLD CONSUMPTION
 1 000 000 STARS
 (SUN = AVERAGE)
-ESTIMATED TOTAL STARS IN THE GALAXY 
+ESTIMATED TOTAL STARS IN THE GALAXY
 (150 GIGA STARS)
 (SUN = AVERAGE)
 1 391 436 000 000  EXAJOULES,
 TOTAL SUN POWER
-ESTIMATED TOTAL STARS IN THE UNIVERSE 
-(250 ZETTA STARS) 
+ESTIMATED TOTAL STARS IN THE UNIVERSE
+(250 ZETTA STARS)
 (SUN = AVERAGE)
 +10%
 GROWTH
@@ -818,7 +818,7 @@ Les révolutions thermo-industrielles ont engendré une nouvelle chimère : l'id
 S'engouffrer encore dans ces théories désuètes, c'est se condamner à un effondrement civilisationnel…
 En attendant, le PIB mondial global comme individuel est strictement proportionnel à la consommation d'énergie, et surcouplé de manière plus forte encore à l'extraction matérielle, donc à la pollution.
 ECONOMIE BASÉE SUR L'INFINI
-LOT 5 
+LOT 5
 
 AMÉLIORATION DE LA VIE ET DES USAGES
 55
@@ -830,7 +830,7 @@ Il est impensable de faire machine arrière. Rien n'était mieux avant, c'est un
 
 En revanche, améliorer la qualité de vie revient aujourd'hui à augmenter l'utilisation de ressources : matière, énergie, machines, robots, automates, réseau, information… Au final, c'est toute l'activité humaine sous-jacente qui explose, remplaçant la force et le temps humains par autre chose.
 AMÉLIORATION DE LA VIE ET DES USAGES
-LOT 5 
+LOT 5
 
 AUGMENTATION DE LA POPULATION
 56
@@ -844,7 +844,7 @@ D'autant que si on regarde bien, plus on est riche à l'échelle planétaire, pl
 
 Le monde, divisible en pays ou régions, suit une évolution démographique bien particulière, appelée transition démographique. A travers cette évolution, on observe une chute du nombre d'enfant par femme en âge de procréer, une baisse de la mortalité, puis une baisse de natalité. Quand l'être humain vit bien, il fait moins d'enfants. Les démographes tablent sur une projection à environ 10 à 12 milliards d'êtres humains sur Terre une fois cette transition achevée. Il faut simplement rappeler que le mode de vie des pays riches n'est pas viable, ni pour les autres… Ni pour eux-mêmes.
 AUGMENTATION DE LA POPULATION
-LOT 5 
+LOT 5
 
 EFFET REBOND
 COST
@@ -859,7 +859,7 @@ En gros, par exemple, quand on rend les véhicules moins cher et plus efficaces,
 
 Il peut être direct (baisse des coûts d'achat et/ou d'usage induisant plus d'usage, effet de substitution), indirect (idem, mais induisant plus d'usage d'autres biens et services), ou structurel (multiples baisses induisant de nouveaux types de production).
 EFFET REBOND
-LOT 5 
+LOT 5
 
 LOT 6 - 11 CARTES (+GROUPES)
 
@@ -987,7 +987,7 @@ DÉCRUE DE LA SURVIE HUMAINE
 66
 
 66
-Aussi étrange que ça puisse paraître, il est quasiment impossible d'éradiquer totalement l'humain de la planète Terre (hors scénarios militaires d'autodestruction, et encore !). 
+Aussi étrange que ça puisse paraître, il est quasiment impossible d'éradiquer totalement l'humain de la planète Terre (hors scénarios militaires d'autodestruction, et encore !).
 
 Redescendre la survie humaine, c'est l'amener à un niveau de consommation pré-industriel, minoré des ressources exploitées entre temps, minoré de la biocapacité perdue, minoré des savoir-faire individuels temporairement perdus, augmenté du savoir et des connaissances accumulés depuis.
 
@@ -1013,7 +1013,7 @@ REPLI, CONFLITS, GUERRES
 68
 
 68
-Montée des extrêmes droites, tentations de l'ordre absolu, répression, censure, ségrégation, harcèlement de la presse, fascisme, totalitarisme, mouvements nationaux, désignation de boucs-émissaires, xénophobie, allophobie… Dès lors qu'une situation implique douleur, incompréhension, souffrance ou mort, le premier réflexe physiologique comme social est de se replier, vers une vision survivaliste et individualiste, solitaire. 
+Montée des extrêmes droites, tentations de l'ordre absolu, répression, censure, ségrégation, harcèlement de la presse, fascisme, totalitarisme, mouvements nationaux, désignation de boucs-émissaires, xénophobie, allophobie… Dès lors qu'une situation implique douleur, incompréhension, souffrance ou mort, le premier réflexe physiologique comme social est de se replier, vers une vision survivaliste et individualiste, solitaire.
 
 Quand les causes sont invisibles, l'imagination prend le dessus, et des habitudes de gestion de crise par minimisation et recherche rapide de causes et solutions aussi. La vision managériale a fini de détruire l'analyse sur le long terme.
 
@@ -1066,7 +1066,7 @@ Nucléosynthèse et baryogénèse
 L'univers
 Apparition des astres
 Création de la Terre et de son environnement
-Création du Soleil 
+Création du Soleil
 Apparition du vivant sur Terre
 Concentrations d'énergie abondante
 Effet rebond
@@ -1186,10 +1186,10 @@ LOTS
 
 La Fresque du Système Terre a été créée par William Pinaud en 2022.
 Sa diffusion est libre, à condition de ne pas être modifiée. Pour tous renseignements, l'auteur reste disponible sur tous les réseaux. La licence d'utilisation est Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-Tout usage est libre (pour ne pas dire encouragé), à condition de maîtriser les concepts qui sont sous-jacents à la compréhension du contenu de cet atelier.Des sessions de formation peuvent être dispensées par des bénévoles. 
+Tout usage est libre (pour ne pas dire encouragé), à condition de maîtriser les concepts qui sont sous-jacents à la compréhension du contenu de cet atelier.Des sessions de formation peuvent être dispensées par des bénévoles.
 Cet atelier est grandement inspiré de son grand frère : l'atelier de La Fresque du Climat, créé par Cédric Ringenbach, à qui il doit probablement tout. Il est néanmoins plus complexe.Il est également inspiré de nombreux travaux, notamment des implications publiques de personnalités comme Arthur Keller, Jean-Marc Jancovici, Aurore Stéphant, Philippe Bihouix, Johan Rockström, Emma Haziza, Valérie Masson-Delmotte, Aurélien Barrau, Catherine Wolfram, Jean-Baptiste Fressoz, ainsi que bon nombre d'organismes, de l'ONU (IRP, IPCC, UNESCO, …) au Shift Project en passant par le Club de Rome, son rapport The Limits To Growth (Meadows), l'Union Européenne, l'AIE, Négawatt, la WWF, GreenPeace, l'EIA, le Global Footprint Network et bien d'autres personnes et organismes encore, la liste étant fatalement trop longue. Ces personnes et entités n'ont aucunement soutenu, participé à, ni entériné cet atelier.
 Cet atelier ne dispense aucunement, mais au contraire encourage la participation, voire l'implication, à tous les autres ateliers de ce type existant (et il y en a beaucoup !).Il est plus que recommandé de devenir animateur·ice de la La Fresque du Climat à minima pour animer celui-ci, et de se former au préalable (des vidéos sur YouTube peuvent vous aider).
 Les images non sourcées individuellement sont créditées via Pixabay.
-Pour plus d'informations : 							L'auteur : William Pinaud> https://www.lafresquedusystemeterre.org 						william_dot_pinaud_at_gmail_dot_com> https://www.theearthsystemfresco.org 						https://linktr.ee/DocFX									https://twitter.com/innersonics 
-The Earth System Fresco © 2022 by William Pinaud is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International 
+Pour plus d'informations : 							L'auteur : William Pinaud> https://www.lafresquedusystemeterre.org 						william_dot_pinaud_at_gmail_dot_com> https://www.theearthsystemfresco.org 						https://linktr.ee/DocFX									https://twitter.com/innersonics
+The Earth System Fresco © 2022 by William Pinaud is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International
 LA FRESQUE DU SYSTÈME TERRE - UN ATELIER COLLABORATIF INSPIRÉ DE LA FRESQUE DU CLIMAT - [FR-FR] - [TOUS PUBLICS] - [V1.0 - 01/10/2022]

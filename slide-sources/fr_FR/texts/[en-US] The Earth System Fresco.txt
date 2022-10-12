@@ -405,7 +405,7 @@ ENERGY
 
 
 
- 
+
 INVESTED
 USEFUL ENERGY
 LOST
@@ -420,7 +420,7 @@ EXERGY
 
 
 
- 
+
 INVESTED
 USEFUL EXERGY
 LOST
@@ -490,7 +490,7 @@ This work has made it possible to discover the behavior of energy, but also to i
 
 These laws, principles, until proven otherwise, have no parliament to be voted on. They apply everywhere, all the time, and there is no getting around them. Any decision of civilizational orientation going against them will be physically doomed to failure.
 LAWS AND PRINCIPLES OF PHYSICS
-BATCH 4 
+BATCH 4
 
 CONSTANT RESOURCES
 34
@@ -502,7 +502,7 @@ Solar energy includes many considerations: the first being to better design buil
 
 Same goes for the heat of the center of the Earth (deep and surface geothermal energy), still very little used, or gravitation via hydroelectricity, still the largest so-called "renewable" source in the world. Be careful however: not all are equal, as some of these sources are controllable (hydroelectricity or geothermal energy) and assimilated to perpetual, while others are unequal (sunshine), predictable (tides) or unpredictable (wind), which will require storage to buffer usage, and an increase in installed power, not to mention the densification of the electrical network for diffuse energies. In any case, the means of capture are never definitive, and they will always have to be renewed, not to mention that they have a very low charge rate.
 CONSTANT RESOURCES
-BATCH 4 
+BATCH 4
 
 STRONG DURABILITY
 35
@@ -539,7 +539,7 @@ This hypothesis is defended by Herman Daly (1990). According to him, only the ma
 
 In this hypothesis, the stock of natural capital should not fall. Daly argues that natural capital and artificial capital are complementary and not substitutable. We therefore retain that the economy must be part of a social construction and not define it, and that the social construction cannot go beyond the Earth's biocapacity either.
 STRONG DURABILITY
-BATCH 4 
+BATCH 4
 
 WEAK DURABILITY
 36
@@ -557,7 +557,7 @@ This conception of sustainability is the one that prevails in many international
 
 The indicator proposed by the Stiglitz Commission, adjusted net savings, makes the three forms of capital interchangeable: "economic" (derived from production), "human" (dealt with via education expenditure alone), "natural" (limiting ecological damage to climatic aspects only). This indicator is therefore always placed in a low sustainability model.
 WEAK DURABILITY
-BATCH 4 
+BATCH 4
 
 CLIMATE CHANGE
 37
@@ -569,7 +569,7 @@ About 74% of humans will be exposed to deadly heat waves more than 20 days a yea
 
 In order not to exceed the objective of the IPCC (the organization fairly mandated by the UN to specifically collect the scientific literature published around this planetary limit) of the maximum of +2°C in 2100, it would be necessary to leave underground the 3/4 proven fossil fuel reserves. In the meantime, the damage is counted every day and affects all the countries of the world, more and more strongly every day.
 CLIMATE CHANGE
-BATCH 4 
+BATCH 4
 
 DISINTEGRATION OF THE BIOSPHERE
 38
@@ -583,7 +583,7 @@ In 50 years Europe has lost 620 million birds, North America 3 billion of them, 
 
 1 million species are threatened in the very short term, 1000 billion marine animals die each year from fishing. 9.3 million hectares of forest burned in 2021 alone.
 DISINTEGRATION OF THE BIOSPHERE
-BATCH 4 
+BATCH 4
 
 DISRUPTION OF BIOGEOCHEMICAL CYCLES
 39
@@ -596,7 +596,7 @@ The most important cycles are the cycle of nitrogen, of carbon, of water, the cy
 
 Humans strongly disrupt these cycles, such as those of phosphorus and nitrogen (human dejecta ending up in natural waters, as well as runoff linked to agriculture). Over-enriching waterways in this way is called eutrophication (asphyxiation following abnormal growth of living organisms). This planetary limit, for phosphorus and nitrogen, has been easily crossed, it is urgent to go down to levels that can be assimilated by living organisms (bacteria). We could also add the carbon cycle, analyzed separately… In climate change.
 DISRUPTION OF BIOGEOCHEMICAL CYCLES
-BATCH 4 
+BATCH 4
 
 DISRUPTION OF LAND USE
 40
@@ -613,7 +613,7 @@ Thawing of permafrost is 50 times faster than expected. It releases methane (CH4
 Each year, 80,000 km² of forest disappear.
 Only less than 50% of the trees that the Earth had before the arrival of agriculture 12,000 years ago remain.
 DISRUPTION OF LAND USE
-BATCH 4 
+BATCH 4
 
 DEPLETION OF FRESHWATER RESOURCES
 41
@@ -630,7 +630,7 @@ The melting of the glaciers will bring in far too much fresh water, far too quic
 70% of freshwater is used for agriculture in the world.
 In one day, up to 11 billion tons of melting ice have been reported in Greenland alone.
 DEPLETION OF FRESHWATER RESOURCES
-BATCH 4 
+BATCH 4
 
 NEW POLLUTING ENTITIES
 42
@@ -642,7 +642,7 @@ This limit is not yet clearly quantified, but we are sure that we need to estima
 
 An adult ingests up to 52,000 microparticles of plastic per year (wear and tear on shoes, tires, bags, packaging, etc.), to which are added an additional 90,000 if they only drink bottled water (and 4,000 if preferring tap water), about one credit card volume per week. The production of human waste will increase by around 70% in the next ten years. 98% of pesticides reach at least one other entity than their original purpose required.
 NEW POLLUTING ENTITIES
-BATCH 4 
+BATCH 4
 
 REGRESSION OF THE ATMOSPHERIC OZONE LAYER
 43
@@ -659,7 +659,7 @@ Computer models predict that a 10% decrease in stratospheric ozone concentration
 
 By monitoring its presence, it was established in the 1980s that the depletion of stratospheric ozone at the level of the south pole, commonly called “world's ozone hole”. From the end of the 20th century, the development of industry and transport, the intensity of agricultural activities and other human activities released quantities of nitrogenous, nitrated and chlorinated products (in particular chlorofluorocarbons) sufficient to disturb the balance of this layer, reinforcing the ozone destruction reaction and leading to a significant reduction in its concentration. If today we consider that we have acted in a corrective way and that this "hole" has stopped growing, it will take a few more decades to return to the levels before the end of the 20th century. And be careful not to do it again.
 REGRESSION OF THE ATMOSPHERIC OZONE LAYER
-BATCH 4 
+BATCH 4
 
 OCEAN ACIDIFICATION
 44
@@ -669,7 +669,7 @@ Anthropogenic emissions of carbon dioxide can end up, like almost all gases, in 
 
 When these elements are trapped by the oceans by solubility or dilution, this has the effect of reducing the pH of the latter, which therefore becomes slightly more acidic. However, plankton is very sensitive to these changes (like the human body, which must remain between 7.35 and 7.45 -at 6.8, you would already be in a coma-) and marine ecosystems are already threatened, and not only the coral. From 1751 to 2004, the pH of ocean surface waters decreased from 8.25 to 8.14 (30%).
 OCEAN ACIDIFICATION
-BATCH 4 
+BATCH 4
 
 CONCENTRATION OF ATMOSPHERIC AEROSOLS
 45
@@ -684,7 +684,7 @@ Black carbon (the most basic paracrystalline form of carbon) and sulfur dioxide 
 
 Aerosols also block about a third of global warming.
 CONCENTRATION OF ATMOSPHERIC AEROSOLS
-BATCH 4 
+BATCH 4
 
 BATCH 5 - 12 CARDS (+ARROWS)
 
@@ -701,7 +701,7 @@ Second: for bad decisions of the past and present, how resilient is the biospher
 In the meantime, each year, humans kill an average of 1,000 billion animals.
 And human existence is only a symbiosis between the living human and the living non-human: if the rest dies, we die with the rest.
 DECREASING VIABILITY ON EARTH
-BATCH 5 
+BATCH 5
 
 POLLUTION
 47
@@ -716,7 +716,7 @@ The living always adapts (worms capable of digesting polystyrene have been disco
 9.3 million people die each year from the effects of pollution.
 1 billion children are now exposed to serious health effects due to exposure to pollution.
 POLLUTION
-BATCH 5 
+BATCH 5
 
 DEPENDENCY MESH
 48
@@ -728,7 +728,7 @@ When we look at the evolution of energy sources throughout history, humanity has
 
 Today, at a time when we are talking about constant energy (light and therefore winds, gravity of rivers and tides, direct heat, etc.) or highly renewable energy (bioenergy, biofuels, etc.), it is important to remember that in a world at 85% fossil, 90% non-constant energy, all energies depend on each other, and therefore have neither sustainable substitute nor independence. You need oil, water for all the mines, from lithium to coal, you need coal to make the machines that use oil, you need electricity for the "all-electric" paradigm to come, you need fossil fuels and tons of materials to make solar panels, wind turbines, dams, and all the systems that, whatever happens, are not eternal and will have to be demolished and then made again, using resources not all infinite.
 DEPENDENCY MESH
-BATCH 5 
+BATCH 5
 
 DYNAMICS OF COMPLEX SYSTEMS
 49
@@ -742,7 +742,7 @@ A system is any set of interconnected and mutually influencing variables. The sy
 This approach is very unintuitive for a human being, who will go more easily towards a heap of static parameters. Systems dynamics is the science of change, evolution, loops, interactions, linearities, stabilisations, etc. It is strongly rooted in mathematics and mass analysis (big data, automated learning, etc.). The Earth system is an extremely complex system, but possible to model, with increasing complexity (like the World3 model).
 We already know multiple deductions to this approach.
 DYNAMICS OF COMPLEX SYSTEMS
-BATCH 5 
+BATCH 5
 
 RECYCLING AND DOWNCYCLING
 50
@@ -755,7 +755,7 @@ Recycling is not free, it also consumes a lot of resources, even if it is a much
 
 Indeed, the inert like the living took millions of years to form over a layer of rock and the living started in the water. Uprooting the soil (the pedosphere) is to think that pedogenesis and abiogenesis would happen more quickly: this is not the case. When we have finished exploiting a mining site, what remains on the surface is unrecoverable on our scale and definitely pollutes.
 RECYCLING AND DOWNCYCLING
-BATCH 5 
+BATCH 5
 
 MINE DEPLETION
 51
@@ -765,10 +765,10 @@ Man has taken as many resources from the ground between 2002 and 2015 (1Tt) as a
 We speak of mineral when the resource is identifiable, fairly homogeneous and crystallinely known, of rock when it is relatively heterogeneous and of ore when the rock contains enough of the mineral sought or co-extracted.
 
 It is not only a question of extracting fossil fuels from the ground, it is indeed a question here of an overwhelming majority of the elements of Mendeleev's table, the quantities of which are finite within the thin part of lithosphere accessible in our limits. And all are coming to an end, one by one, except for aluminum, iron, magnesium, titanium and manganese. Some elements only have proven and exploitable reserves for a handful of decades. And with the pressure of the mirage of a "transition" from fossil to all-electric (thus metallic), the most used materials will see their extraction multiplied, everything sinking faster... Towards a definitive and imminent shortage. In the meantime, more and more rock has to be extracted for less and less material, as historically we started with the easiest and most abundant deposits. It is estimated that more than 40 elements are already in danger of being supplied… To speak only of the chemical elements alone. The calculation is dynamic and to be related to the contemporary economy at the time of the calculation, which explains that depending on the R/P ratio (reserves at a given time / production rate at this time) the number of remaining years varies (we increase energy cost and amount of ground mined to maintain rates).
- 
+
 Not sure that there is enough left for everything we do today, nor especially for how long, including hospitals, renewable energies, transport, domestic, food, education, digital services, justice, civil protection, management of natural disasters, building, artisans, not to mention all the totally superfluous and macrocephalic part of what we produce... Unless connected slippers, connected gourds indicating the remaining capacity, wigs for cats, or USB pebbles seem useful to you, not to mention the marketplaces that list the same products thousands of times… Which will never be sold.
 MINE DEPLETION
-BATCH 5 
+BATCH 5
 
 ABUNDANT ENERGY CONCENTRATIONS
 52
@@ -780,7 +780,7 @@ It is thanks to these characteristics that humanity has been able to make a leap
 
 Today, if we were to replace non-human mechanical force with human mechanical force, we would have to... Be 200 times more on the planet, of which 99.5% of humans would be full-time slaves. Much more so in rich countries. Man thus provides at the maximum of their capacities less than 0.5% of what they consumes, smoothed over a life, and it gets worse and worse. Suffice to say that we are addicted to abundant energy.
 ABUNDANT ENERGY CONCENTRATIONS
-BATCH 5 
+BATCH 5
 
 THERMO-INDUSTRIAL REVOLUTIONS
 53
@@ -793,7 +793,7 @@ Humans have been using fossil fuels for thousands of years, some originally outc
 The most developed countries then passed from an agrarian economy to an economy of production of goods and services, leading to an explosive use of the resources thus discovered.
 Steam engine, railroad boom, internal combustion engine, telephony, pasteurization, dynamo, light bulb, nuclear physics, computing, quantum physics… Everything we were born with today and what we are used to comes from there.
 THERMO-INDUSTRIAL REVOLUTIONS
-BATCH 5 
+BATCH 5
 
 595 EXAJOULES,
 2021 WORLD CONSUMPTION
@@ -807,13 +807,13 @@ YEARLY SOLAR POWER ABSORBED
 2021 WORLD CONSUMPTION
 1 000 000 STARS
 (SUN = AVERAGE)
-ESTIMATED TOTAL STARS IN THE GALAXY 
+ESTIMATED TOTAL STARS IN THE GALAXY
 (150 GIGA STARS)
 (SUN = AVERAGE)
 1 391 436 000 000  EXAJOULES,
 TOTAL SUN POWER
-ESTIMATED TOTAL STARS IN THE UNIVERSE 
-(250 ZETTA STARS) 
+ESTIMATED TOTAL STARS IN THE UNIVERSE
+(250 ZETTA STARS)
 (SUN = AVERAGE)
 +10%
 GROWTH
@@ -831,7 +831,7 @@ The economic theories which then resulted from this, known as "neoclassical", ha
 To engulf ourselves again in these obsolete theories is to condemn ourselves to a civilizational collapse…
 In the meantime, both global and individual global GDP is strictly proportional to energy consumption, and even more strongly overcoupled to material extraction, and therefore to pollution.
 INFINITY-BASED ECONOMY
-BATCH 5 
+BATCH 5
 
 IMPROVEMENT OF LIFE AND USES
 55
@@ -843,7 +843,7 @@ It is unthinkable to go back. Nothing was better before, it's a myth destroyed b
 
 On the other hand, improving the quality of life today amounts to increasing the use of resources: matter, energy, machines, robots, automata, network, information... In the end, it is all the underlying human activity that explodes, replacing human strength and time with something else.
 IMPROVEMENT OF LIFE AND USES
-BATCH 5 
+BATCH 5
 
 POPULATION INCREASE
 56
@@ -857,7 +857,7 @@ Especially since if you look closely, the richer you are on a planetary scale, t
 
 The world, divisible into countries or regions, is following a very specific demographic evolution, called demographic transition. Through this evolution, we observe a drop in the number of children per woman of childbearing age, a drop in mortality, then a drop in the birth rate. When human beings live well, they have fewer children. Demographers expect a projection of around 10 to 12 billion human beings on Earth once this transition is complete. We simply need to remember that the way of life in rich countries is not viable, neither for others… Nor for themselves.
 POPULATION INCREASE
-BATCH 5 
+BATCH 5
 
 Km/day/person
 REBOUND EFFECT
@@ -883,7 +883,7 @@ Basically, for example, when we make vehicles cheaper and more efficient, we end
 
 It can be direct (reduction in purchase and/or usage costs leading to more usage, substitution effect), indirect (idem, but leading to more usage of other goods and services), or structural (multiple declines leading to new types of production).
 REBOUND EFFECT
-BATCH 5 
+BATCH 5
 
 BATCH 6 - 11 CARDS (+GROUPS)
 
@@ -955,7 +955,7 @@ CRITICALITY OF A SOCIETY CHOICE
 We arrived a long time ago in a transitional period, and we are faced with a societal choice: anticipate the fall by a decrease, or watch our civilization collapse. It's time to put on the table what we want.
 All the developments resulting from social struggles have been made possible by this sudden abundance: holidays, retirement, reduced working hours, inclusion, weekends, non-religious holidays, vacations, free time, abolition of slavery, serfdom, human rights, of children, of women, of non-human animals, reducing misery and suffering, etc. If the Human Development Index (HDI) was continuously rising, it's a safe bet that this abundance had something to do with it.
 The shadow of the past still lurks.
- 
+
 It is time to realize that the crossing of these planetary limits only reflects symptoms, of which we are the origin of the disease, and to realize that we must completely review our software of thought, all of our activities and of our common goal: lasting happiness.
 
 At this stage, as Arthur Keller says, "now, it's the catch or the crush".
@@ -1217,11 +1217,24 @@ BATCHES
 15
 
 The Earth System Fresco was created by William Pinaud in 2022.
-Its distribution is free, provided it is not modified. For all information, the author remains available on all networks.The license for use is Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-Any use is free (not to say "deeply encouraged"), provided you master the concepts that underlie the understanding of the content of this workshop.Training sessions can be provided by volunteers.
-This workshop is greatly inspired by its big brother: the Climate Fresk workshop, created by Cédric Ringenbach, to whom it probably owes everything. However, it is more complex.It is also inspired by numerous works, in particular the public involvements of personalities such as Arthur Keller, Jean-Marc Jancovici, Aurore Stéphant, Philippe Bihouix, Johan Rockström, Emma Haziza, Valérie Masson-Delmotte, Aurélien Barrau, Catherine Wolfram, Jean-Baptiste Fressoz, as well as many organizations, from the UN (IRP, IPCC, UNESCO, etc.) to the Shift Project via the Club of Rome, its report The Limits To Growth (Meadows), the European Union, the IEA, Négawatt, the WWF, GreenPeace, EIA, Global Footprint Network and many more people and organizations, the list is fatally too long. These people and entities have in no way supported, participated in, or endorsed this workshop.
-This workshop in no way exempts, but on the contrary encourages participation, even involvement, in all the other existing workshops of this type (and there are many of them!).It is more than recommended to become an animator of The Climate Fresk at least to animate it, and to train beforehand (videos on YouTube can help you).
+Its distribution is free, provided it is not modified. For all information, the author remains available on all networks.
+
+The license for use is Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+Any use is free (not to say "deeply encouraged"), provided you master the concepts that underlie the understanding of the content of this workshop.
+Training sessions can be provided by volunteers.
+
+This workshop is greatly inspired by its big brother: the Climate Fresk workshop, created by Cédric Ringenbach, to whom it probably owes everything. However, it is more complex.
+It is also inspired by numerous works, in particular the public involvements of personalities such as Arthur Keller, Jean-Marc Jancovici, Aurore Stéphant, Philippe Bihouix, Johan Rockström, Emma Haziza, Valérie Masson-Delmotte, Aurélien Barrau, Catherine Wolfram, Jean-Baptiste Fressoz, as well as many organizations, from the UN (IRP, IPCC, UNESCO, etc.) to the Shift Project via the Club of Rome, its report The Limits To Growth (Meadows), the European Union, the IEA, Négawatt, the WWF, GreenPeace, EIA, Global Footprint Network and many more people and organizations, the list is fatally too long. These people and entities have in no way supported, participated in, or endorsed this workshop.
+This workshop in no way exempts, but on the contrary encourages participation, even involvement, in all the other existing workshops of this type (and there are many of them!).
+It is more than recommended to become an animator of The Climate Fresk at least to animate it, and to train beforehand (videos on YouTube can help you).
+
 Images not individually sourced are credited via Pixabay.
-For more information : 							The author: William Pinaud> https://www.lafresquedusystemeterre.org 						william_dot_pinaud_at_gmail_dot_com> https://www.theearthsystemfresco.org 						https://linktr.ee/DocFX									https://twitter.com/innersonics 
-The Earth System Fresco © 2022 by William Pinaud is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International 
+
+For more information : 							The author: William Pinaud
+> https://www.lafresquedusystemeterre.org 		william_dot_pinaud_at_gmail_dot_com
+> https://www.theearthsystemfresco.org 			https://linktr.ee/DocFX
+									            https://twitter.com/innersonics
+
+The Earth System Fresco © 2022 by William Pinaud is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International
 THE EARTH SYSTEM FRESCO - A COLLABORATIVE WORKSHOP INSPIRED BY THE CLIMATE FRESK - [EN-US] - [ALL AUDIENCES] - [V1.0 - 01/10/2022]
